@@ -3,8 +3,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, MessageHandler, filters, ContextTypes
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import threading
-
-TOKEN = "8816631552:AAFbBjYVxH0zHU-mqIL3GLB3aoE0tVxUlMY"
+TOKEN = "8816631552:AAEiOuGmNXfeUHBWTdc-8-HZf8C7HgvjNRI"
 
 AGENT_TEXT = (
     "O agente explicará o processo de trabalho passo a passo. "
